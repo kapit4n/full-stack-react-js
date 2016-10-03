@@ -1,4 +1,4 @@
 ### Getting Started
-npm install
-bower install
+* npm install
+* bower install
 
